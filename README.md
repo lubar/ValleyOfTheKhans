@@ -22,11 +22,11 @@ This data supports the PLOS-One publication by Lin, Lanckriet, Huynh and Barring
 - url
 
 2) **Tile** - Master images were chopped into 84,183 small tiles for individuals to view on the crowdsourcing site. 
-  id
-  upper_left_E
-  upper_left_N
-  lower_left_E
-  lower_left_N
+- id
+- upper_left_E
+- upper_left_N
+- lower_left_E
+- lower_left_N
 - upper_right_E
 - upper_right_N
 - lower_right_E
