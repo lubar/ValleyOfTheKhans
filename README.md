@@ -27,16 +27,16 @@ This data supports the PLOS-One publication by Lin, Lanckriet, Huynh and Barring
   upper_left_N
   lower_left_E
   lower_left_N
-  - upper_right_E
-  - upper_right_N
-  - lower_right_E
-  - lower_right_N
-  - width
-  - height
-  - url
-  - master_id
-  - zoom
-  - bad_tile
+- upper_right_E
+- upper_right_N
+- lower_right_E
+- lower_right_N
+- width
+- height
+- url
+- master_id
+- zoom
+- bad_tile
 
 3) **View** - 974,116 records of which users viewed which tiles and when
 - id
