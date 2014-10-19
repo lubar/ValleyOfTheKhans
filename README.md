@@ -6,6 +6,7 @@ Crowdsourcing data gathered as part of an expedition to Mongolia in search of th
 This data supports the PLOS-One publication by Lin, Lanckriet, Huynh and Barrington [2014] titled "Crowdsourcing the Unknown". The paper describes a crowdsourcing initiative, http://exploration.nationalgeographic.com/, where more than 10,000 online explorers contributed to a massive, online, distributed search of thousands of satellite images. Using a simple web interface, the public "crowd" marked any clues in the images that could help explorers in a remote part of Mongolia identify locations of archaelogical significance, including graves, tombs, deer stones and khirigsuurs.
 
 3 data files are published here, each in CSV format:
+
 1) *Master* - a description of the 32 DigitalGlobe satellite images that were used in this work.
 - id
 - upper_left_E
